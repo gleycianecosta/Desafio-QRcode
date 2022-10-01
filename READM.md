@@ -1,4 +1,4 @@
-# NLW eSport - Trilha Explore
+FrontEnd Mentor
 
 ![preview](./images/rep.png)
 
