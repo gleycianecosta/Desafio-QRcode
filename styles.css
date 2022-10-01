@@ -1,0 +1,47 @@
+body {
+    background-color: #cfcff5;
+    margin: auto auto;
+    margin-top: auto;
+    height: 600px;
+
+}
+body * {
+    font-family: 'Outfit', sans-serif;   
+}
+
+
+#card{
+    text-align: center;
+    padding-top: 50px;
+    padding: 30px;
+    width: 200px;
+    background-color: white;
+    border-radius: 30px;
+    margin: auto auto;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+img {
+    border-radius: 10px;
+    width: 200px;
+}
+section h3 {
+    letter-spacing: -0.50px;
+    font-size: 17px;
+    color: rgb(10, 1, 37);
+}
+section p {
+    letter-spacing: -0.18px; 
+    font-size: 13px;   
+    color: #cfcff5;
+}
+section {
+    text-align: center;
+
+}
